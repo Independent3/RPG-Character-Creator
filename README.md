@@ -34,16 +34,15 @@ CHA ●○○○○○○○○○
 - Text-based visual representation
 
 
-### How to run
 
 ### How to Run
 
 1. Make sure Python 3 is installed
-2. Download the repository or copy the `create_character.py` file
+2. Download the repository or copy the `RPG_Character.py` file
 3. Open a terminal in the project folder
 4. Run:
 
 ```
-python create_character.py
+python RPG_Character.py
 
 
